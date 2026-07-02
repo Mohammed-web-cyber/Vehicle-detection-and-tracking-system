@@ -17,7 +17,7 @@ Traffic management systems need automated vehicle counting for congestion analys
 ## ⚙️ Run Locally
 
 ```bash
-git clone https://github.com/Mdshafeeulla/Vehicle-Count-using-YOLO
+git clone https://github.com/Mohammed-web-cyber/Vehicle-detection-and-tracking-system.git
 cd Vehicle-Count-using-YOLO
 pip install -r requirements.txt
 python detect.py --source your_video.mp4
