@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+ultralytics>=8.1.0
+opencv-python>=4.9.0
+cvzone>=1.6.1
+numpy>=1.24.0
+filterpy>=1.4.5
+scikit-image>=0.22.0
+lap>=0.4.0
+pandas>=2.0.0
